@@ -33,12 +33,12 @@ except ImportError:
 MAX_RENT = 650                      # max EUR (warm or cold)
 SEEN_FILE = "seen.json"             # state file - committed back to repo
 RETENTION_DAYS = 30                 # how long to remember seen listings
-NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
-NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh").strip()
+NTFY_TOPIC = (os.environ.get("NTFY_TOPIC") or "").strip()
+NTFY_SERVER = (os.environ.get("NTFY_SERVER") or "").strip() or "https://ntfy.sh"
 
 # Optional Telegram (leave empty to disable)
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "").strip()
-TELEGRAM_CHAT  = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip()
+TELEGRAM_CHAT  = (os.environ.get("TELEGRAM_CHAT_ID") or "").strip()
 
 # Browser-like headers to reduce bot detection
 HEADERS = {
@@ -56,12 +56,34 @@ HEADERS = {
 }
 
 
-def fetch(url: str, timeout: int = 30) -> str:
-    """Fetch a URL, preferring curl_cffi (TLS fingerprint match) when available."""
+def _make_session():
+    """Create an HTTP session with realistic browser identity."""
     if HAS_CFFI:
-        r = cffi_requests.get(url, impersonate="chrome124", timeout=timeout)
-    else:
-        r = requests.get(url, headers=HEADERS, timeout=timeout)
+        return cffi_requests.Session()
+    s = requests.Session()
+    s.headers.update(HEADERS)
+    return s
+
+
+def fetch(url: str, timeout: int = 30, warmup: str = "") -> str:
+    """
+    Fetch a URL with a real-browser TLS fingerprint when curl_cffi is available.
+    If `warmup` is given, hit that URL first to establish cookies/session,
+    which bypasses some bot-detection 401/403 responses.
+    """
+    sess = _make_session()
+    kwargs = {"timeout": timeout}
+    if HAS_CFFI:
+        kwargs["impersonate"] = "chrome124"
+
+    if warmup:
+        try:
+            sess.get(warmup, **kwargs)
+            time.sleep(random.uniform(0.6, 1.4))
+        except Exception:
+            pass  # warmup is best-effort
+
+    r = sess.get(url, **kwargs)
     r.raise_for_status()
     return r.text
 
@@ -86,6 +108,10 @@ EXCLUDE_PATTERNS = [
     r"\burlaubswohnung\b", r"\bferienhaus\b", r"\bmonteur",
     r"\bzwischenmiete\b", r"\bzwischenvermietung\b",
     r"\bauf\s+zeit\b", r"\btemporär", r"\btageweise\b", r"\bwochenweise\b",
+    # Mon-Fri / weekday-only rentals (Wochenpendler / Monteur-style)
+    r"\bmo(ntag)?\s*[-–bis]+\s*fr(eitag)?\b",
+    r"\bvon\s+mo(ntag)?\s+bis\s+fr(eitag)?\b",
+    r"\b(unter|nur)\s+der?\s+woche\b",
     # 1-5 month sublets (clearly under 6 months) - leaves 6+ alone
     r"\bfür\s+[1-5]\s+monate?\b", r"\bnur\s+[1-5]\s+monate?\b",
     r"\b[1-5]\s+monate?\s+(miete|zwischen|unter)",
@@ -269,7 +295,7 @@ def scrape_saga() -> list[dict]:
     url = "https://www.saga.hamburg/immobiliensuche?type=wohnungen"
     listings = []
     try:
-        html = fetch(url)
+        html = fetch(url, warmup="https://www.saga.hamburg/")
     except Exception as e:
         print(f"[saga] fetch failed: {e}", file=sys.stderr)
         return listings
@@ -348,8 +374,10 @@ SCRAPERS = [
 
 
 def main() -> int:
-    first_run = not os.path.exists(SEEN_FILE)
     seen = load_seen()
+    # First run = no listings remembered yet. This correctly handles an empty
+    # seen.json committed to the repo as a placeholder.
+    first_run = (len(seen) == 0)
     all_new = []
     total_seen = 0
 
