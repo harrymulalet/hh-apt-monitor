@@ -35,12 +35,6 @@
     "title": "Geräumige Studentenwohnung in Eilbek - 96 Rooms (NUR für Studenten)",
     "url": "https://www.kleinanzeigen.de/s-anzeige/geraeumige-studentenwohnung-in-eilbek-96-rooms-nur-fuer-studenten-/3395984164-203-23511"
   },
-  "ka-3395996300": {
-    "date": "2026-05-28T07:09:24.943557",
-    "price": 475,
-    "title": "96 Rooms - Studentenwohnanlage (NUR für Studenten)",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/96-rooms-studentenwohnanlage-nur-fuer-studenten-/3395996300-203-23511"
-  },
   "ka-3396060924": {
     "date": "2026-06-15T21:24:28.273548",
     "price": 397,
@@ -52,18 +46,6 @@
     "price": 539,
     "title": "3-Zimmer-Wohnung mit Loggia (WBS zwingend notwendig!)",
     "url": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-mit-loggia-wbs-zwingend-notwendig-/3406778119-203-9469"
-  },
-  "ka-3419749339": {
-    "date": "2026-05-28T07:09:24.943574",
-    "price": 600,
-    "title": "Möblierte 1-Zimmer Wohnung mit Balkon neben U1- ab 01.07.2026",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-1-zimmer-wohnung-mit-balkon-neben-u1-ab-01-07-2026/3419749339-203-9462"
-  },
-  "ka-3419823957": {
-    "date": "2026-05-28T07:09:24.943572",
-    "price": 1,
-    "title": "TESTWOHNUNG nach Rollout 28.05.",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/testwohnung-nach-rollout-28-05-/3419823957-203-16482"
   },
   "ka-3419852127": {
     "date": "2026-05-28T11:02:06.396033",
@@ -1720,5 +1702,17 @@
     "price": 458,
     "title": "Hamburg – Komfortable Wohnung in einer hervorragenden Lage",
     "url": "https://www.kleinanzeigen.de/s-anzeige/-hamburg-komfortable-wohnung-in-einer-hervorragenden-lage/3444457196-203-26508"
+  },
+  "ka-3444793046": {
+    "date": "2026-06-27T08:12:23.167921",
+    "price": 1,
+    "title": "Möblierte 2 Zimmer Wohnung in Barmbek",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-2-zimmer-wohnung-in-barmbek/3444793046-203-16399"
+  },
+  "ka-3444793234": {
+    "date": "2026-06-27T08:12:23.167908",
+    "price": 450,
+    "title": "Pendlerzimmer nähe UKE in schöner Altbau-Whg",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/pendlerzimmer-naehe-uke-in-schoener-altbau-whg/3444793234-203-9436"
   }
 }
