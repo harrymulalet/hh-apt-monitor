@@ -53,12 +53,6 @@
     "title": "3-Zimmer-Wohnung mit Loggia (WBS zwingend notwendig!)",
     "url": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-mit-loggia-wbs-zwingend-notwendig-/3406778119-203-9469"
   },
-  "ka-3421709784": {
-    "date": "2026-05-30T14:49:00.970628",
-    "price": 500,
-    "title": "Moderne und helle Wohnung in Hamburg, unweit des Zentrums",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/moderne-und-helle-wohnung-in-hamburg-unweit-des-zentrums/3421709784-203-26508"
-  },
   "ka-3421852161": {
     "date": "2026-05-30T18:00:44.442363",
     "price": 420,
@@ -1732,5 +1726,29 @@
     "price": 350,
     "title": "Möbliertes Zimmer",
     "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-zimmer/3446550721-203-9437"
+  },
+  "ka-3446628203": {
+    "date": "2026-06-29T15:35:58.807261",
+    "price": 400,
+    "title": "Einzimmerwohnung",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/einzimmerwohnung/3446628203-203-9422"
+  },
+  "ka-3446651258": {
+    "date": "2026-06-29T15:35:58.807260",
+    "price": 450,
+    "title": "Helles Zimmer (ca. 9 m²) zur Untermiete in Harburg Rathaus",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/helles-zimmer-ca-9-m-zur-untermiete-in-harburg-rathaus/3446651258-203-9437"
+  },
+  "ka-3446669556": {
+    "date": "2026-06-29T15:35:58.807259",
+    "price": 400,
+    "title": "Einzimmerwohnung",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/einzimmerwohnung/3446669556-203-16405"
+  },
+  "ka-3446727050": {
+    "date": "2026-06-29T15:35:58.807249",
+    "price": 450,
+    "title": "wg zimmer in 2er",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/wg-zimmer-in-2er/3446727050-203-9460"
   }
 }
