@@ -53,24 +53,6 @@
     "title": "3-Zimmer-Wohnung mit Loggia (WBS zwingend notwendig!)",
     "url": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-mit-loggia-wbs-zwingend-notwendig-/3406778119-203-9469"
   },
-  "ka-3422521056": {
-    "date": "2026-05-31T12:49:23.182455",
-    "price": 500,
-    "title": "ZIMMER FÜR WOCHENENFAHRER HH-KIRCHWERDER",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/zimmer-fuer-wochenenfahrer-hh-kirchwerder/3422521056-203-18570"
-  },
-  "ka-3422539534": {
-    "date": "2026-05-31T12:49:23.182445",
-    "price": 530,
-    "title": "Einzimmer Wohnung in Hamburg Sülldorf",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/einzimmer-wohnung-in-hamburg-suelldorf/3422539534-203-29121"
-  },
-  "ka-3422627552": {
-    "date": "2026-05-31T14:22:57.970978",
-    "price": 550,
-    "title": "Moderne Wohnung in Hamburg in der Nähe des Zentrums",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/moderne-wohnung-in-hamburg-in-der-naehe-des-zentrums/3422627552-203-26508"
-  },
   "ka-3422825635": {
     "date": "2026-05-31T16:47:50.904818",
     "price": 10,
@@ -1774,5 +1756,11 @@
     "price": 558,
     "title": "Tolle 1-Zimmer-Wohnung mit Balkon in Lohbrügge",
     "url": "https://www.kleinanzeigen.de/s-anzeige/tolle-1-zimmer-wohnung-mit-balkon-in-lohbruegge/3447288737-203-9518"
+  },
+  "ka-3447328464": {
+    "date": "2026-06-30T14:40:47.898519",
+    "price": 650,
+    "title": "WG Zimmer in Harburg",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/wg-zimmer-in-harburg/3447328464-203-9505"
   }
 }
