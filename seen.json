@@ -53,12 +53,6 @@
     "title": "3-Zimmer-Wohnung mit Loggia (WBS zwingend notwendig!)",
     "url": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-mit-loggia-wbs-zwingend-notwendig-/3406778119-203-9469"
   },
-  "ka-3422323775": {
-    "date": "2026-05-31T11:14:25.567878",
-    "price": 356,
-    "title": "1 Zimmerwohnung mit Balkon",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmerwohnung-mit-balkon/3422323775-203-27970"
-  },
   "ka-3422521056": {
     "date": "2026-05-31T12:49:23.182455",
     "price": 500,
@@ -1733,6 +1727,12 @@
     "title": "Ich suche eine Wohnung für mich",
     "url": "https://www.kleinanzeigen.de/s-anzeige/ich-suche-eine-wohnung-fuer-mich/3447004856-203-9495"
   },
+  "ka-3447018000": {
+    "date": "2026-06-30T12:08:49.998983",
+    "price": 650,
+    "title": "Möbliertes Zimmer mit eigener Küchenzeile zu vermieten – Norderst",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-zimmer-mit-eigener-kuechenzeile-zu-vermieten-norderst/3447018000-203-9492"
+  },
   "ka-3447020036": {
     "date": "2026-06-29T23:44:12.421890",
     "price": 0,
@@ -1768,5 +1768,11 @@
     "price": 450,
     "title": "Möblierte Wohnung im Grünen HH-Hausbruch - für Wochenendpendler",
     "url": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-wohnung-im-gruenen-hh-hausbruch-fuer-wochenendpendler/3447140442-203-15765"
+  },
+  "ka-3447288737": {
+    "date": "2026-06-30T12:08:49.998966",
+    "price": 558,
+    "title": "Tolle 1-Zimmer-Wohnung mit Balkon in Lohbrügge",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/tolle-1-zimmer-wohnung-mit-balkon-in-lohbruegge/3447288737-203-9518"
   }
 }
