@@ -59,12 +59,6 @@
     "title": "**WBS (barrierefrei) zwingend nötig!** Öff. gef. 1-Zimmer-Neubauwohnung barrierefrei am Baakenhafen",
     "url": "https://www.kleinanzeigen.de/s-anzeige/-wbs-barrierefrei-zwingend-noetig-oeff-gef-1-zimmer-neubauwohnung-barrierefrei-am-baakenhafen/3426938786-203-9496"
   },
-  "ka-3428038643": {
-    "date": "2026-06-06T14:43:00.430196",
-    "price": 622,
-    "title": "Ein Zimmer mit Balkon untervermieten ab Oktober 2026",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/ein-zimmer-mit-balkon-untervermieten-ab-oktober-2026/3428038643-203-9466"
-  },
   "ka-3428244193": {
     "date": "2026-06-06T17:16:00.335872",
     "price": 450,
@@ -1846,5 +1840,29 @@
     "price": 270,
     "title": "Apartments Ohlsdorfer Straße",
     "url": "https://www.kleinanzeigen.de/s-anzeige/apartments-ohlsdorfer-strasse/3452361879-203-9481"
+  },
+  "ka-3452433492": {
+    "date": "2026-07-06T16:37:33.186759",
+    "price": 370,
+    "title": "Gemütliche 1-Zimmer-Wohnung zu vermieten",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-1-zimmer-wohnung-zu-vermieten/3452433492-203-9433"
+  },
+  "ka-3452473816": {
+    "date": "2026-07-06T16:37:33.186758",
+    "price": 250,
+    "title": "Apartment Am Klingenberg",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/apartment-am-klingenberg/3452473816-203-9509"
+  },
+  "ka-3452497180": {
+    "date": "2026-07-06T16:37:33.186755",
+    "price": 600,
+    "title": "Wohnung 1 Zimmer ALTONA/EIMSBÜTTEL",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-1-zimmer-altona-eimsbuettel/3452497180-203-26485"
+  },
+  "ka-3452522492": {
+    "date": "2026-07-06T16:37:33.186746",
+    "price": 270,
+    "title": "Apartment Alsterkrugchaussee",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/apartment-alsterkrugchaussee/3452522492-203-16439"
   }
 }
