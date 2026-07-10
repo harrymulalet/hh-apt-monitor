@@ -35,12 +35,6 @@
     "title": "96 ROOMS - Studentenwohnanlage - NUR FÜR STUDIERENDE",
     "url": "https://www.kleinanzeigen.de/s-anzeige/96-rooms-studentenwohnanlage-nur-fuer-studierende/3396060924-203-23511"
   },
-  "ka-3406778119": {
-    "date": "2026-06-10T10:36:28.993862",
-    "price": 539,
-    "title": "3-Zimmer-Wohnung mit Loggia (WBS zwingend notwendig!)",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-mit-loggia-wbs-zwingend-notwendig-/3406778119-203-9469"
-  },
   "ka-3422539534": {
     "date": "2026-07-04T11:21:24.762667",
     "price": 530,
@@ -52,24 +46,6 @@
     "price": 388,
     "title": "**WBS (barrierefrei) zwingend nötig!** Öff. gef. 1-Zimmer-Neubauwohnung barrierefrei am Baakenhafen",
     "url": "https://www.kleinanzeigen.de/s-anzeige/-wbs-barrierefrei-zwingend-noetig-oeff-gef-1-zimmer-neubauwohnung-barrierefrei-am-baakenhafen/3426938786-203-9496"
-  },
-  "ka-3431427074": {
-    "date": "2026-06-10T10:36:28.993880",
-    "price": 589,
-    "title": "Nur an 3 Personen mit WOHNBERECHTIGUNGSSCHEIN zur Miete in Hamburg-Schnelsen-Wentzel-Dr.",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/nur-an-3-personen-mit-wohnberechtigungsschein-zur-miete-in-hamburg-schnelsen-wentzel-dr-/3431427074-203-9492"
-  },
-  "ka-3431457250": {
-    "date": "2026-06-10T10:36:28.993879",
-    "price": 600,
-    "title": "Möbliertes WG Zimmer Souterrain zu vermieten",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-wg-zimmer-souterrain-zu-vermieten/3431457250-203-9439"
-  },
-  "ka-3431528285": {
-    "date": "2026-06-10T10:36:28.993877",
-    "price": 252,
-    "title": "Nachmieter für eine Studentenverbindung Gesuch",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-fuer-eine-studentenverbindung-gesuch/3431528285-203-9430"
   },
   "ka-3431574184": {
     "date": "2026-06-10T13:58:10.992926",
@@ -1924,5 +1900,11 @@
     "price": 625,
     "title": "Gemütliche 2 Zimmerwohnung zur Miete in Winterhude - Wentzel-Dr.",
     "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmerwohnung-zur-miete-in-winterhude-wentzel-dr-/3455195512-203-9482"
+  },
+  "ka-3455383703": {
+    "date": "2026-07-10T10:47:22.389415",
+    "price": 530,
+    "title": "Möbliertes WG-Zimmer unbefristet",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-wg-zimmer-unbefristet/3455383703-203-9466"
   }
 }
