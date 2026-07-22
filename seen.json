@@ -65,24 +65,6 @@
     "title": "[Suche] Kleine Wohnung im gesamten \"Nordosten\" Hamburgs",
     "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-kleine-wohnung-im-gesamten-nordosten-hamburgs/3440340832-203-9457"
   },
-  "ka-3441628402": {
-    "date": "2026-06-22T15:37:10.558348",
-    "price": 650,
-    "title": "2,5 Zimmer Wohnung in Tonndorf",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/2-5-zimmer-wohnung-in-tonndorf/3441628402-203-9464"
-  },
-  "ka-3441721016": {
-    "date": "2026-06-22T15:37:10.558346",
-    "price": 479,
-    "title": "1. Zimmer Wohnung in Hamm 36m²",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-in-hamm-36m-/3441721016-203-9424"
-  },
-  "ka-3441735069": {
-    "date": "2026-06-22T15:37:10.558330",
-    "price": 1,
-    "title": "WBS+POSITIVE Schufa 3 Zimmer Wohnung (Neubau) Nachmieter gesucht",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/wbs-positive-schufa-3-zimmer-wohnung-neubau-nachmieter-gesucht/3441735069-203-26482"
-  },
   "ka-3441746318": {
     "date": "2026-06-22T21:32:10.290888",
     "price": 490,
@@ -1726,5 +1708,11 @@
     "price": 540,
     "title": "1 Zimmer Wohnung Hamburg Rahlstedt",
     "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-hamburg-rahlstedt/3465577350-203-9455"
+  },
+  "ka-3465674024": {
+    "date": "2026-07-22T16:49:16.710940",
+    "price": 550,
+    "title": "WG-Zimmer in Hamburg-Finkenwerder zu vermieten",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/wg-zimmer-in-hamburg-finkenwerder-zu-vermieten/3465674024-203-19906"
   }
 }
