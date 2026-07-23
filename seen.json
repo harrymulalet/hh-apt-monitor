@@ -65,12 +65,6 @@
     "title": "[Suche] Kleine Wohnung im gesamten \"Nordosten\" Hamburgs",
     "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-kleine-wohnung-im-gesamten-nordosten-hamburgs/3440340832-203-9457"
   },
-  "ka-3441789595": {
-    "date": "2026-06-23T13:58:56.838698",
-    "price": 460,
-    "title": "1 WG Zimmer Untervermietung / HH-Rahlstedt",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/1-wg-zimmer-untervermietung-hh-rahlstedt/3441789595-203-9455"
-  },
   "ka-3442408926": {
     "date": "2026-06-23T16:28:18.558272",
     "price": 500,
@@ -1660,5 +1654,11 @@
     "price": 550,
     "title": "WG-Zimmer in Hamburg-Finkenwerder zu vermieten",
     "url": "https://www.kleinanzeigen.de/s-anzeige/wg-zimmer-in-hamburg-finkenwerder-zu-vermieten/3465674024-203-19906"
+  },
+  "ka-3466412291": {
+    "date": "2026-07-23T15:20:14.847093",
+    "price": 300,
+    "title": "sanierte 2-Raum Wohnung im Zentrum von Weißwasser",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-2-raum-wohnung-im-zentrum-von-weisswasser-/3466412291-203-9468"
   }
 }
