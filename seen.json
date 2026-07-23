@@ -65,18 +65,6 @@
     "title": "[Suche] Kleine Wohnung im gesamten \"Nordosten\" Hamburgs",
     "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-kleine-wohnung-im-gesamten-nordosten-hamburgs/3440340832-203-9457"
   },
-  "ka-3442408926": {
-    "date": "2026-06-23T16:28:18.558272",
-    "price": 500,
-    "title": "Stilvolle, moderne Apartments in Hamburg",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/stilvolle-moderne-apartments-in-hamburg/3442408926-203-26508"
-  },
-  "ka-3442441212": {
-    "date": "2026-06-23T16:28:18.558256",
-    "price": 480,
-    "title": "Ein Zimmer in Alsterdorf",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/ein-zimmer-in-alsterdorf/3442441212-203-16438"
-  },
   "ka-3442562635": {
     "date": "2026-06-23T18:20:56.094240",
     "price": 500,
@@ -1660,5 +1648,11 @@
     "price": 300,
     "title": "sanierte 2-Raum Wohnung im Zentrum von Weißwasser",
     "url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-2-raum-wohnung-im-zentrum-von-weisswasser-/3466412291-203-9468"
+  },
+  "ka-3466512122": {
+    "date": "2026-07-23T16:51:03.449501",
+    "price": 506,
+    "title": "Klein aber fein: Single-Wohnung für Kurzentschlossene!",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/klein-aber-fein-single-wohnung-fuer-kurzentschlossene-/3466512122-203-16442"
   }
 }
