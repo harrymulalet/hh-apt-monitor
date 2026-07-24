@@ -65,18 +65,6 @@
     "title": "[Suche] Kleine Wohnung im gesamten \"Nordosten\" Hamburgs",
     "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-kleine-wohnung-im-gesamten-nordosten-hamburgs/3440340832-203-9457"
   },
-  "ka-3443009911": {
-    "date": "2026-06-24T13:29:24.565688",
-    "price": 450,
-    "title": "WG zimmer für pendler",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/wg-zimmer-fuer-pendler/3443009911-203-9488"
-  },
-  "ka-3443045359": {
-    "date": "2026-06-24T13:29:24.565677",
-    "price": 390,
-    "title": "1-Zimmer-Wohnung mit perfekter Anbindung!",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-mit-perfekter-anbindung-/3443045359-203-26508"
-  },
   "ka-3443149138": {
     "date": "2026-06-24T15:52:21.222042",
     "price": 650,
@@ -1672,5 +1660,23 @@
     "price": 1,
     "title": "Handwerker/Maurer sucht eine Wohnung zum selbst fertig machen",
     "url": "https://www.kleinanzeigen.de/s-anzeige/handwerker-maurer-sucht-eine-wohnung-zum-selbst-fertig-machen/3467081269-203-9437"
+  },
+  "ka-3467169303": {
+    "date": "2026-07-24T14:27:23.111692",
+    "price": 450,
+    "title": "Helle 1-Zimmer-Wohnung in Hamburg",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/helle-1-zimmer-wohnung-in-hamburg/3467169303-203-9419"
+  },
+  "ka-3467184756": {
+    "date": "2026-07-24T14:27:23.111690",
+    "price": 370,
+    "title": "Stimmiges Gesamtkonzept: Möblierte 1-Zimmer-Wohnung Hamburg-Nord",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/stimmiges-gesamtkonzept-moeblierte-1-zimmer-wohnung-hamburg-nord/3467184756-203-9483"
+  },
+  "ka-3467205451": {
+    "date": "2026-07-24T14:27:23.111679",
+    "price": 320,
+    "title": "Moderne 2-Zimmer Neubauwohnung in Hamburg-Nord",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/moderne-2-zimmer-neubauwohnung-in-hamburg-nord/3467205451-203-9483"
   }
 }
