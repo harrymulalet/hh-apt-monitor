@@ -65,12 +65,6 @@
     "title": "[Suche] Kleine Wohnung im gesamten \"Nordosten\" Hamburgs",
     "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-kleine-wohnung-im-gesamten-nordosten-hamburgs/3440340832-203-9457"
   },
-  "ka-3443266741": {
-    "date": "2026-06-24T17:49:31.712605",
-    "price": 450,
-    "title": "Gemütliche Wohnung in Hamburg zur Langzeitmiete",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-wohnung-in-hamburg-zur-langzeitmiete/3443266741-203-26508"
-  },
   "ka-3443379750": {
     "date": "2026-06-24T21:08:29.283061",
     "price": 620,
@@ -1672,5 +1666,17 @@
     "price": 550,
     "title": "WG Zimmer zu vermieten",
     "url": "https://www.kleinanzeigen.de/s-anzeige/wg-zimmer-zu-vermieten/3467390339-203-9437"
+  },
+  "ka-3467405601": {
+    "date": "2026-07-24T18:55:09.069115",
+    "price": 600,
+    "title": "Möbliertes Studio Eppendorf, fußläufig zum UKE, ab 01.10",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-studio-eppendorf-fusslaeufig-zum-uke-ab-01-10/3467405601-203-9475"
+  },
+  "ka-3467446599": {
+    "date": "2026-07-24T18:55:09.069104",
+    "price": 650,
+    "title": "Wohnung 5 zimmer",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-5-zimmer/3467446599-203-9411"
   }
 }
