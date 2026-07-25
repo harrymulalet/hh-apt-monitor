@@ -71,12 +71,6 @@
     "title": "[Suche] Kleine Wohnung im gesamten \"Nordosten\" Hamburgs",
     "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-kleine-wohnung-im-gesamten-nordosten-hamburgs/3440340832-203-9457"
   },
-  "ka-3443975018": {
-    "date": "2026-06-25T19:16:24.255162",
-    "price": 525,
-    "title": "Freundlich helle 1 Zimm. Wohng. 1 OG (1 Person), südlich der Elbe",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/freundlich-helle-1-zimm-wohng-1-og-1-person-suedlich-der-elbe/3443975018-203-18312"
-  },
   "ka-3444093748": {
     "date": "2026-06-26T04:14:13.731442",
     "price": 520,
@@ -1660,5 +1654,17 @@
     "price": 450,
     "title": "Zweizimmerwohnung",
     "url": "https://www.kleinanzeigen.de/s-anzeige/zweizimmerwohnung/3468032131-203-17622"
+  },
+  "ka-3468293582": {
+    "date": "2026-07-25T19:49:54.525557",
+    "price": 1,
+    "title": "kostenfreie WG als Familienhilfe mit Bezahlung",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/kostenfreie-wg-als-familienhilfe-mit-bezahlung/3468293582-203-9458"
+  },
+  "ka-3468300834": {
+    "date": "2026-07-25T19:49:54.525542",
+    "price": 385,
+    "title": "2 Zimmerwohnung zum 01.09.2026",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmerwohnung-zum-01-09-2026/3468300834-203-26508"
   }
 }
