@@ -59,12 +59,6 @@
     "title": "4,5 Zimmer Maisonnette WHG Quartier21  ab 1.9.26",
     "url": "https://www.kleinanzeigen.de/s-anzeige/4-5-zimmer-maisonnette-whg-quartier21-ab-1-9-26/3446002863-203-9449"
   },
-  "ka-3448004172": {
-    "date": "2026-07-01T13:16:53.832059",
-    "price": 520,
-    "title": "Gemütliche, helle Wohnung in Hamburg",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-helle-wohnung-in-hamburg/3448004172-203-26508"
-  },
   "ka-3448121822": {
     "date": "2026-07-01T15:57:00.460438",
     "price": 544,
@@ -1648,5 +1642,11 @@
     "price": 310,
     "title": "Wohnung zu vermieten",
     "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-zu-vermieten/3472800476-203-9465"
+  },
+  "ka-3472834694": {
+    "date": "2026-07-31T14:31:31.724469",
+    "price": 606,
+    "title": "Attraktive 3 Zimmerwohnung in Hamburg-Horn zur Miete - Wentzel Dr.",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/attraktive-3-zimmerwohnung-in-hamburg-horn-zur-miete-wentzel-dr-/3472834694-203-27970"
   }
 }
