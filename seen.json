@@ -59,12 +59,6 @@
     "title": "4,5 Zimmer Maisonnette WHG Quartier21  ab 1.9.26",
     "url": "https://www.kleinanzeigen.de/s-anzeige/4-5-zimmer-maisonnette-whg-quartier21-ab-1-9-26/3446002863-203-9449"
   },
-  "ka-3448367668": {
-    "date": "2026-07-01T19:44:44.577972",
-    "price": 444,
-    "title": "Schöne 1,5-Zimmer-Dachgeschosswhg in Hamburg-Bahrenfeld ab 01.08.",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-1-5-zimmer-dachgeschosswhg-in-hamburg-bahrenfeld-ab-01-08-/3448367668-203-9503"
-  },
   "ka-3448474485": {
     "date": "2026-07-01T21:12:20.634106",
     "price": 624,
@@ -1666,5 +1660,17 @@
     "price": 440,
     "title": "1-Zimmer-Wohnung",
     "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung/3473157199-203-26480"
+  },
+  "ka-3473188332": {
+    "date": "2026-07-31T20:39:47.430648",
+    "price": 500,
+    "title": "Zimmer in möblierter Wohnung",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/zimmer-in-moeblierter-wohnung/3473188332-203-25272"
+  },
+  "ka-3473191309": {
+    "date": "2026-07-31T20:39:47.430663",
+    "price": 620,
+    "title": "Helles & gemütliches Appartement (16 m²) Altona Erzbergerstraße",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/helles-gemuetliches-appartement-16-m-altona-erzbergerstrasse/3473191309-203-26479"
   }
 }
