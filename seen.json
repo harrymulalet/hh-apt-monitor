@@ -59,12 +59,6 @@
     "title": "4,5 Zimmer Maisonnette WHG Quartier21  ab 1.9.26",
     "url": "https://www.kleinanzeigen.de/s-anzeige/4-5-zimmer-maisonnette-whg-quartier21-ab-1-9-26/3446002863-203-9449"
   },
-  "ka-3448944691": {
-    "date": "2026-07-02T16:23:03.062983",
-    "price": 571,
-    "title": "Charmante 3 Zimmer zur Miete in Hamburg Horn - Wentzel Dr.",
-    "url": "https://www.kleinanzeigen.de/s-anzeige/charmante-3-zimmer-zur-miete-in-hamburg-horn-wentzel-dr-/3448944691-203-27970"
-  },
   "ka-3449137031": {
     "date": "2026-07-02T19:53:52.684486",
     "price": 463,
@@ -1648,5 +1642,11 @@
     "price": 455,
     "title": "1-Zimmer-Wohnung in Hamburg-Uhlenhorst",
     "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-in-hamburg-uhlenhorst/3473784445-203-26490"
+  },
+  "ka-3473867249": {
+    "date": "2026-08-01T16:39:00.924946",
+    "price": 520,
+    "title": "3-Zimmer Wohnung",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung/3473867249-203-9430"
   }
 }
